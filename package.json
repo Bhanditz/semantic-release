@@ -22,7 +22,7 @@
     "@semantic-release/commit-analyzer": "^6.1.0",
     "@semantic-release/error": "^2.2.0",
     "@semantic-release/github": "^5.1.0",
-    "@semantic-release/npm": "^5.0.5",
+    "@semantic-release/npm": "^7.1.0",
     "@semantic-release/release-notes-generator": "^7.1.2",
     "aggregate-error": "^2.0.0",
     "cosmiconfig": "^5.0.1",
@@ -30,7 +30,7 @@
     "env-ci": "^3.0.0",
     "execa": "^1.0.0",
     "figures": "^2.0.0",
-    "find-versions": "^3.0.0",
+    "find-versions": "^4.0.0",
     "get-stream": "^4.0.0",
     "git-log-parser": "^1.2.0",
     "hook-std": "^1.1.0",
@@ -44,7 +44,7 @@
     "resolve-from": "^4.0.0",
     "semver": "^5.4.1",
     "signale": "^1.2.1",
-    "yargs": "^12.0.0"
+    "yargs": "^13.2.4"
   },
   "devDependencies": {
     "ava": "^1.0.1",
